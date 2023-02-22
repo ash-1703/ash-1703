@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ash-1703
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in Software Development and Java Backend Development
 - 📫 How to reach me www.linkedin.com/in/aishwarya-tupe
 
 <!---

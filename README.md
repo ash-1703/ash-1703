@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ash-1703
-- 👀 I’m interested in Software Development and Java Backend Development
+- 👀 I’m interested in Software Development 
 - 📫 How to reach me www.linkedin.com/in/aishwarya-tupe
 
 <!---

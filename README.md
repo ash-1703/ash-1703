@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="images/banner.png" alt="banner" width="400"/>
-</p>
+
+<img src="images/banner.png" alt="banner" style="width:100%;"/>
+
 <h1 align="center">Hi 👋, I'm Aishwarya Sambhaji Tupe</h1>
 <h3 align="center">A passionate software developer from United States.</h3>
 <p align="center">

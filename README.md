@@ -1,10 +1,11 @@
+<p align="center">
+  <img src="images/banner.png" alt="banner" width="400"/>
+</p>
 <h1 align="center">Hi 👋, I'm Aishwarya Sambhaji Tupe</h1>
+<h3 align="center">A passionate software developer from United States.</h3>
 <p align="center">
   <img src="https://media1.tenor.com/m/6qMfYaxvJGoAAAAC/hi.gif" alt="Anime Coding GIF" width="400"/>
 </p>
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ash-1703" alt="ash-1703" /></a> </p> -->
-<h3 align="center">A passionate software developer from United States.</h3>
-
 - 🔭 I’m currently working on [EchoSpace](https://github.com/ash-1703/EchoSpace)
 - 🌱 I’m currently learning **Amazon Web Services**
 - 👨‍💻 All of my projects are available at [ash-1703.github.io/portfolio/](ash-1703.github.io/portfolio/)

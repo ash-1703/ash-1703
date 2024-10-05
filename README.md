@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [EchoSpace](https://github.com/ash-1703/EchoSpace)
 - 🌱 I’m currently learning **Amazon Web Services**
-- 👨‍💻 All of my projects are available at [ash-1703.github.io/portfolio/](ash-1703.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at https://ash-1703.github.io/portfolio/
 - 💬 Ask me about **mongodb, express.js, react, node.js, python, java, etc.**
 - 📫 How to reach me **aishtupe1703@gmail.com**
 - ⚡ Fun fact **I love anime (currently watching One Piece and My Hero Academia)**
